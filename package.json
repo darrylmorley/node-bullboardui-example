@@ -1,0 +1,23 @@
+{
+  "name": "bullboardui-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@bull-board/api": "^5.14.2",
+    "@bull-board/express": "^5.14.2",
+    "@bull-board/ui": "^5.14.2",
+    "bull": "^4.12.2",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0"
+  }
+}
